@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Daybreak.ogg-03429ffd699f80a677d1f89ff6ba4fda.oggstr"
+
+[deps]
+
+source_file="res://Daybreak.ogg"
+dest_files=[ "res://.import/Daybreak.ogg-03429ffd699f80a677d1f89ff6ba4fda.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/White.wav-da2da9d7d8a00c6d152502abfcbf475d.sample"
+
+[deps]
+
+source_file="res://White.wav"
+dest_files=[ "res://.import/White.wav-da2da9d7d8a00c6d152502abfcbf475d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

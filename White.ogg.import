@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/White.ogg-fc7163912d39af0b68da2e6c9e0a6939.oggstr"
+
+[deps]
+
+source_file="res://White.ogg"
+dest_files=[ "res://.import/White.ogg-fc7163912d39af0b68da2e6c9e0a6939.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
